@@ -22,6 +22,10 @@ a {
     text-decoration: none;
 }
 
+.radek{
+    padding: 3px;
+}
+
 .seznam {
     display: flex;
     justify-content: center;
